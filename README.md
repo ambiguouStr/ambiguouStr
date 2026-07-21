@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   8 hrs 43 mins         ███████████░░░░░░░░░░░░░░   43.68 %
-Other      5 hrs 59 mins         ███████▓░░░░░░░░░░░░░░░░░   30.01 %
-SQL        2 hrs 59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
-Diff       52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Bash       37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Markdown   9 hrs 53 mins         ██████████▓░░░░░░░░░░░░░░   42.11 %
+Other      7 hrs 47 mins         ████████▒░░░░░░░░░░░░░░░░   33.17 %
+SQL        2 hrs 28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+Text       1 hr 13 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Diff       52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
